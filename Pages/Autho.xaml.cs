@@ -23,7 +23,7 @@ namespace WPF6.Pages
     public partial class Autho : Page
     {
         private int click;
-
+        //comment
         public Autho()
         {
             InitializeComponent();
